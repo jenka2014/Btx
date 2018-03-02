@@ -1,0 +1,2 @@
+# Btx
+BittrexConnector
